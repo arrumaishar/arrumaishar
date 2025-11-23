@@ -1,6 +1,6 @@
 # Hi there 👋
 
-
+<img src="/assets/Dark Header.png" alt="dark header">
 
 ## Get to know me
 
