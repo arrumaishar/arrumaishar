@@ -1,8 +1,8 @@
 # Hi there 👋
 
-## Get to know me -->
+## Get to know me
 
-I am Arrum or people usually call me Ayum (both are okay!). A **Security Operation (SecOps) Specialist** based in Indonesia(https://en.wikipedia.org/wiki/Indonesia). I keep systems patched, stable, and secure — especially in highly regulated environments like *banking*.  
+I am Arrum or people usually call me Ayum (both are okay!). A **Security Operation (SecOps) Specialist** based in [Indonesia](https://en.wikipedia.org/wiki/Indonesia). I keep systems patched, stable, and secure — especially in highly regulated environments like *banking*.  
 I like turning noisy, boring maintenance work into something reliable and almost invisible. 
 
 <!--
