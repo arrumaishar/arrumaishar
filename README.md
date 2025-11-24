@@ -12,13 +12,12 @@ I am currently...
 - 🔭 Working on one of biggest private *banking* company in Indonesia.
 - 🌱 Learning for CompTIA Security+, about Cloud Security, ISO 27001, SIEM/XDR, etc.
 - 👯 Looking pals to collaborate on Security Operations, System Security, Patch Management, GRC, and Vulnerability Assessment.
-- 📫 How to reach me: <a href="https://www.instagram.com/arrumaisha.r">
-  <img align="left" alt="Instagram" width="22px" src="/assets/instagram-icon.png"/>
+- 📫 How to reach me: <a href="https://www.instagram.com/arrumaisha.r"><img alt="Instagram" width="22px" src="/assets/instagram-icon.png"/>
 </a> <a href="https://www.linkedin.com/in/arrumaisha-r/"><img alt="LinkedIn" width="22px" src="/assets/linkedin-icon.png"/></a>
- <a href="https://www.x.com/comstelation"><img align="left" alt="Twitter" width="22px" src="/assets/twitter-icon"/></a>
+ <a href="https://www.x.com/comstelation"><img alt="Twitter" width="22px" src="/assets/twitter-icon"/></a>
 
 ## Tools and Development
-<img src="/assets/wazuh-logo.png" width="30px" alt="Wazuh">
+<img alt="Wazuh" width="120px" src="/assets/wazuh-logo.png" >
 
 
 ## Certifications
