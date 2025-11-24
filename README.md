@@ -1,10 +1,16 @@
 # Hi there 👋
 
-<img src="/assets/Dark Header.png" alt="dark header">
+<img src="/assets/header.png" alt="dark header">
 
 ## Get to know me
 
-I am Arrum. A **Security Operation (SecOps) Specialist** based in [Indonesia](https://en.wikipedia.org/wiki/Indonesia). I keep systems patched, stable, and secure — especially in highly regulated environments like *banking*.  I like turning noisy, boring maintenance work into something reliable and almost invisible. 
+I am Arrum. A **Security Operation (SecOps) Specialist** based in [Indonesia](https://en.wikipedia.org/wiki/Indonesia). I keep systems patched, stable, and secure — especially in highly regulated environments.
+
+- 🔭 I’m currently working on one of biggest private banking sector in Indonesia.
+- 🌱 I’m currently learning CompTIA Security+, Cloud Security, ISO 27001, etc.
+- 👯 I’m looking to collaborate on Security Operations, System Security, Patch Management, GRC, and Vulnerability Assessment.
+- 💬 Ask me about tech stuffs especially SecOps!
+- 📫 How to reach me: [<img src="/assets/instagram icon.png">](https://instagram.com/arrumaisha.r)
 
 <!--
 **arrumaishar/arrumaishar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
