@@ -1,4 +1,4 @@
-# Hi there 👋
+<img width="812" height="491" alt="Group 1000012756" src="https://github.com/user-attachments/assets/0d9941b9-bb0e-4306-bf87-bae56df4ae02" /><img width="812" height="491" alt="Group 1000012756" src="https://github.com/user-attachments/assets/04b261e7-bc48-4c02-8b24-2f23b75d3ee1" /># Hi there 👋
 
 <img src="/assets/header.png" alt="dark header">
 
@@ -6,23 +6,26 @@
 
 I am Arrum. A **Security Operation (SecOps) Specialist** based in [Indonesia](https://en.wikipedia.org/wiki/Indonesia). I keep systems patched, stable, and secure — especially in highly regulated environments.
 
-- 🔭 I’m currently working on one of biggest private banking sector in Indonesia.
-- 🌱 I’m currently learning CompTIA Security+, Cloud Security, ISO 27001, etc.
-- 👯 I’m looking to collaborate on Security Operations, System Security, Patch Management, GRC, and Vulnerability Assessment.
-- 💬 Ask me about tech stuffs especially SecOps!
-- 📫 How to reach me: [<img src="/assets/instagram icon.png" width="20px">](https://instagram.com/arrumaisha.r) [<img src="/assets/linkedin icon.png" width="20px">](https://www.linkedin.com/in/arrumaisha-r/)
+## What I am doing?
 
-<!--
-**arrumaishar/arrumaishar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently...
+- 🔭 Working on one of biggest private *banking* company in Indonesia.
+- 🌱 Learning for CompTIA Security+, about Cloud Security, ISO 27001, SIEM/XDR, etc.
+- 👯 Looking pals to collaborate on Security Operations, System Security, Patch Management, GRC, and Vulnerability Assessment.
+- 📫 How to reach me: <a href="https://www.instagram.com/arrumaisha.r">
+  <img align="left" alt="Instagram" width="22px" src="/assets/instagram-icon.png"/>
+</a>
+ <a href="https://www.linkedin.com/in/arrumaisha-r/">
+  <img align="left" alt="LinkedIn" width="22px" src="/assets/linkedin-icon.png"/>
+</a>
+ <a href="https://www.x.com/comstelation">
+  <img align="left" alt="Twitter" width="22px" src="/assets/twitter-icon"/>
+</a>
 
-Here are some ideas to get you started:
+## Tools and Development
+<img src="assets/wazuh-logo.png" alt="Wazuh logo">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Certifications
+
+## My activities
