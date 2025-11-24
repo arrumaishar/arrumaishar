@@ -1,4 +1,4 @@
-<img width="812" height="491" alt="Group 1000012756" src="https://github.com/user-attachments/assets/0d9941b9-bb0e-4306-bf87-bae56df4ae02" /><img width="812" height="491" alt="Group 1000012756" src="https://github.com/user-attachments/assets/04b261e7-bc48-4c02-8b24-2f23b75d3ee1" /># Hi there 👋
+# Hi there 👋
 
 <img src="/assets/header.png" alt="dark header">
 
