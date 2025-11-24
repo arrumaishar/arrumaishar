@@ -10,7 +10,7 @@ I am Arrum. A **Security Operation (SecOps) Specialist** based in [Indonesia](ht
 - 🌱 I’m currently learning CompTIA Security+, Cloud Security, ISO 27001, etc.
 - 👯 I’m looking to collaborate on Security Operations, System Security, Patch Management, GRC, and Vulnerability Assessment.
 - 💬 Ask me about tech stuffs especially SecOps!
-- 📫 How to reach me: [<img src="/assets/instagram icon.png" width="25px">](https://instagram.com/arrumaisha.r) | [<img src="/assets/linkedin icon.png" width="25px">](https://www.linkedin.com/in/arrumaisha-r/)
+- 📫 How to reach me: [<img src="/assets/instagram icon.png" width="25px">](https://instagram.com/arrumaisha.r) [<img src="/assets/linkedin icon.png" width="25px">](https://www.linkedin.com/in/arrumaisha-r/)
 
 <!--
 **arrumaishar/arrumaishar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
