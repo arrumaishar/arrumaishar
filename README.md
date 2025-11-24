@@ -14,16 +14,11 @@ I am currently...
 - 👯 Looking pals to collaborate on Security Operations, System Security, Patch Management, GRC, and Vulnerability Assessment.
 - 📫 How to reach me: <a href="https://www.instagram.com/arrumaisha.r">
   <img align="left" alt="Instagram" width="22px" src="/assets/instagram-icon.png"/>
-</a>
- <a href="https://www.linkedin.com/in/arrumaisha-r/">
-  <img align="left" alt="LinkedIn" width="22px" src="/assets/linkedin-icon.png"/>
-</a>
- <a href="https://www.x.com/comstelation">
-  <img align="left" alt="Twitter" width="22px" src="/assets/twitter-icon"/>
-</a>
+</a> <a href="https://www.linkedin.com/in/arrumaisha-r/"><img alt="LinkedIn" width="22px" src="/assets/linkedin-icon.png"/></a>
+ <a href="https://www.x.com/comstelation"><img align="left" alt="Twitter" width="22px" src="/assets/twitter-icon"/></a>
 
 ## Tools and Development
-<img src="assets/wazuh-logo.png" alt="Wazuh logo">
+<img src="/assets/wazuh-logo.png" width="30px" alt="Wazuh">
 
 
 ## Certifications
